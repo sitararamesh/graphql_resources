@@ -9,8 +9,8 @@ http://graphql.org/
 ## Services
 
 * Apollo Client - https://github.com/apollographql/apollo-client
-* Graph.cool - GraphQL Backend - https://www.graph.cool/
-* Saphold.io - GraphQL Backend as a Service - https://scaphold.io/
+* Graph.cool - GraphQL Backend as a Service - https://www.graph.cool/
+* Scaphold.io - GraphQL Backend as a Service - https://scaphold.io/
 
 ## Apollo Client Docs
 
