@@ -4,13 +4,13 @@ Here's a collection of resources that I've found during my escapades into the Gr
 
 ## Official Documentation
 
-http://graphql.org/
+http://graphql.org/learn/
 
 ## Services
 
 * Apollo Client - https://github.com/apollographql/apollo-client
-* Graph.cool - GraphQL Backend - https://www.graph.cool/
-* Saphold.io - GraphQL Backend as a Service - https://scaphold.io/
+* Graph.cool - GraphQL Backend as a Service - https://www.graph.cool/
+* Scaphold.io - GraphQL Backend as a Service - https://scaphold.io/
 
 ## Apollo Client Docs
 
