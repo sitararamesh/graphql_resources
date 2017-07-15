@@ -4,7 +4,7 @@ Here's a collection of resources that I've found during my escapades into the Gr
 
 ## Official Documentation
 
-http://graphql.org/
+http://graphql.org/learn/
 
 ## Services
 
